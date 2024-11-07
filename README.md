@@ -1,2 +1,1 @@
-# test_repo
-this is only test repository
+# this a education readme file
